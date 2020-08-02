@@ -15,4 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Testting inline code: `a || b`
+Testting inline code:
+
+Operator Gabungan adalah operator yang terdiri dari gabungan dua operator. Tujuan dari operator gabungan adalah untuk mempersingkat penulisan kode. Berikut adalah operator gabungan dalam bahasa C.
+
+| Operator | Contoh    | Ekuivalen Dengan    |
+| :------: | :------:  | :--------------:    |
+| +=	   | `a += b`  |	`a = a + b`      |
+| -=	   | `a -= b`  |	`a = a - b`      |
+| *=	   | `a *= b`  |	`a = a * b`      |
+| /=	   | `a /= b`  |	`a = a / b`      |
+| %=	   | `a %= b`  |	`a = a % b`      |
+| &=	   | `a &= b`  |	`a = a & b`      |
+| \|=	   | `a |= b` |	`a = a | b`     |
+| ^=	   | `a ^= b`  |	`a = a ^ b`      |
+| >>=	   | `a >>= b` |	`a = a >> b`     |
+| <<=	   | `a <<= b` |	`a = a << b`     |
