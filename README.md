@@ -27,7 +27,7 @@ Operator Gabungan adalah operator yang terdiri dari gabungan dua operator. Tujua
 | /=	   | `a /= b`  |	`a = a / b`      |
 | %=	   | `a %= b`  |	`a = a % b`      |
 | &=	   | `a &= b`  |	`a = a & b`      |
-| \|=	   | `a |= b` |	`a = a | b`     |
+| \|=	   | `a \|= b` |	`a = a \| b`     |
 | ^=	   | `a ^= b`  |	`a = a ^ b`      |
 | >>=	   | `a >>= b` |	`a = a >> b`     |
 | <<=	   | `a <<= b` |	`a = a << b`     |
