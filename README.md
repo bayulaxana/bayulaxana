@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Testting inline code: `a \| b`
+Testting inline code: `a || b`
