@@ -9,6 +9,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayulaxana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p style="font-size: 12px; font-style: oblique">
-    <strong>NOTE</strong>: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats
-</p>
+_**Note**: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats_
